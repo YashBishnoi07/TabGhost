@@ -1,0 +1,20 @@
+# ── Node ──────────────────────────────────────────────────
+node_modules/
+
+# ── Build output ──────────────────────────────────────────
+extension/dist/
+
+# ── Environment / secrets ─────────────────────────────────
+server/.env
+
+# ── SQLite database (generated at runtime) ────────────────
+server/tabghost.db
+
+# ── OS junk ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Editor ────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
