@@ -8,6 +8,7 @@
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blueviolet)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=nodedotjs&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![GitHub](https://img.shields.io/badge/GitHub-YashBishnoi07-181717?logo=github)](https://github.com/YashBishnoi07/TabGhost)
 
 </div>
 
@@ -70,7 +71,7 @@ tabghost/
 ### Step 1 — Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tabghost.git
+git clone https://github.com/YashBishnoi07/TabGhost.git
 cd tabghost
 ```
 
@@ -223,7 +224,7 @@ TabGhost requests these Chrome permissions:
 
 ## Contributing
 
-Pull requests are welcome! If you find a bug or have a feature idea, [open an issue](https://github.com/YOUR_USERNAME/tabghost/issues).
+Pull requests are welcome! If you find a bug or have a feature idea, [open an issue](https://github.com/YashBishnoi07/TabGhost/issues).
 
 ---
 
@@ -234,5 +235,5 @@ MIT — do whatever you want with it.
 ---
 
 <div align="center">
-Made with 👻 by <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a>
+Made with 👻 by <a href="https://github.com/YashBishnoi07">Yash Bishnoi</a>
 </div>
