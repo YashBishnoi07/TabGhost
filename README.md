@@ -31,7 +31,7 @@ TabGhost is a Chrome extension that tracks how long every browser tab has been o
 
 ## Screenshots
 
-> *Coming soon — load the extension and take your own!*
+![TabGhost showing tab age badge on YouTube](screenshot.png)
 
 ---
 
